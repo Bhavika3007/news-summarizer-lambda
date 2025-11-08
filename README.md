@@ -1,4 +1,4 @@
-# Serverless News Summarizer
+# News Summarizer
 
 This project is a serverless function using AWS Lambda and API Gateway that:
 
@@ -36,4 +36,5 @@ Send a POST request to your API Gateway endpoint, e.g.:
 Example Response
 {
   "summary": "Short summarized version of the article..."
+
 }
